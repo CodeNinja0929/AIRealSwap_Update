@@ -90,7 +90,7 @@ export default function App() {
 
       <footer className={styles.footer}>
         <div className={styles.aiValueContainer}>
-          <h2 className={styles.aiValueTitle}>AI Calculated Value</h2>
+          <h2 className={styles.aiValueTitle}>AI Calculated Slippage Value</h2>
           <div className={styles.aiValue}>{aiValue}%</div>
         </div>
       </footer>
